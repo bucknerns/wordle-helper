@@ -1,5 +1,5 @@
 import os
-import wordle
+import wordle.wordle as wordle
 
 # TODO qol stuff, maybe color code functions? combine has and has at?
 
